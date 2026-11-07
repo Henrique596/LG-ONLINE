@@ -1,0 +1,4 @@
+git branch lg motores
+git checkout lg motores
+git checkout -b lg motores
+
